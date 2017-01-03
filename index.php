@@ -94,10 +94,10 @@
                  <tr bgcolor="Black">
                    <th><center>No.<th>
                    <th><center>Id Barang<th>
-                    <th><center>Nama Barang<th>
-                     <th><center>Satuan<th>
-                       <th><center>Harga<th>
-                 <th><center>Delete<th>
+                   <th><center>Nama Barang<th>
+                   <th><center>Satuan<th>
+                   <th><center>Harga<th>
+                   <th><center>Delete<th>
                    <th><center>Edit<th>
                      
                      <tr>
