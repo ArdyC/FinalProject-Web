@@ -18,7 +18,7 @@ if(isset($_POST['simpan'])){
       if($update){
       
             echo 'Data berhasil diedit! ';    /Pesan jika proses tambah sukses
-            echo '<a href="beranda.php">Kembali</a>';   //membuat Link untuk kembali ke halaman tambah
+            echo '<a href="index.php">Kembali</a>';   //membuat Link untuk kembali ke halaman tambah
             
             } else {
             
